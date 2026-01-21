@@ -1,3 +1,3 @@
 <?php
-echo "Hello";
+echo "Hello!!!";
 echo "Email va name to'g'ri kiritildi";
